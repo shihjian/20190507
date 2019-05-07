@@ -1,0 +1,24 @@
+.cart-position{
+    position: fixed;
+    right: 40px;
+    bottom: 5px;
+    cursor: pointer;
+}
+
+.cart-number-position{
+    position: fixed;
+    right: 40px;
+    bottom: 52px;
+    cursor: pointer;
+    font-size: 120%;
+    border-radius: 100%;
+}
+
+.filterbtn{
+    position: fixed;
+    left: 40px;
+    bottom: 5px;
+    z-index: 999;
+    cursor: pointer;
+}
+

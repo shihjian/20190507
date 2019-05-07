@@ -1,0 +1,76 @@
+.navbar-brand{
+    background: none;
+}
+
+.navbar-logo{
+    color: black;
+}
+
+
+.banner-1{
+    background-image: url(https://images.unsplash.com/photo-1503221043305-f7498f8b7888?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1335&q=80) !important;
+    background-size: cover;
+    background-position: center center;
+    height: 78vh;
+}
+
+.banner-2{
+    background-image: url(https://images.unsplash.com/photo-1503970999490-4404449dc349?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1269&q=80) !important;
+    background-size: cover;
+    background-position: center center;
+    height: 78vh;
+}
+
+.banner-3{
+    background-image: url(https://images.unsplash.com/photo-1494783367193-149034c05e8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) !important;
+    background-size: cover;
+    background-position: center center;
+    height: 78vh;
+}
+
+.banner{
+    position: relative;
+}
+
+.banner-title{
+    position: absolute;
+    top: 35vh;
+    left: 0;
+    right: 0;
+    margin: auto;
+    max-width: 600px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgba(0,0,0,0.4);
+}
+
+.indexbox{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.indexbox-text{
+    line-height: 32px;
+}
+
+.bgc{
+    background-color: #dfe4ea;
+}
+
+.price{
+    position: relative;
+}
+
+.right-origin-price{
+    position: absolute;
+    bottom: 48px;
+    right: 20px;
+    z-index: 99;
+}
+
+.right-price{
+    position: absolute;
+    bottom: 64px;
+    right: 20px;
+    z-index: 99;
+}
