@@ -177,7 +177,7 @@ import $ from 'jquery';
             },
         },
         created(){
-            // this.getCart();
+            this.getCart();
         }
     }
 </script>
